@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.claude/worktrees/
+# 本机签名配置和凭证
+Signing.local.xcconfig
+*.mobileprovision
+*.p12
